@@ -1,6 +1,6 @@
 # TodoList
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.6.
+This project was genhttps://karma-runner.github.ioerated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.6.
 
 ## Development server
 
